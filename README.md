@@ -15,7 +15,7 @@ To install, you'll need to have installed node first. Then to install the depenc
 ## Usage
 Continue through your terminal and run the command, "node index.js" then anwer the following prompts. Have a screenshot? Be sure to save it as "screenshot.png" and within your own "images" folder.
 
-![ScreenShot](images/screenshot.png)
+![ScreenShot](https://github.com/xdaedx/ReadMe-Generator/blob/master/images/screenshot.PNG)
 
 ## License
 This application is covered under the Boost Software 1.0 License.
