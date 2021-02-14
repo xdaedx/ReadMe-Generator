@@ -53,7 +53,7 @@ function generateMarkdown(answerObject){
   if(!ss){
     ss = ``
   } else {
-    ss = `\n![alt text](assets/images/screenshot.png)`
+    ss = `\n![alt text](images/screenshot.png)`
   }
 
   // Credits

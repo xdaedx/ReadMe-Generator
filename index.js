@@ -91,7 +91,7 @@ inquirer.prompt([
     },
     {
         name: `ss`,
-        message: `Do you want to use a screenshot? (Saved as assets/images/screenshot.png)`,
+        message: `Do you want to use a screenshot? (Saved as images/screenshot.png)`,
         type: `confirm`,
         default: false
     },
