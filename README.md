@@ -25,8 +25,10 @@ Features would include easily being able to add licenses, contributors, table of
 
 ## Questions  
 Click [here](https://github.com/xdaedx) to check out my Github!
-
-
+Email me questions at hewittsunisa@gmail.com
 
 ## Tests
 To run a test, type command "npm tests"
+
+## Walk Through Video 
+https://drive.google.com/file/d/1ZbyJli8zTHcLNmUlcbtyQ2hQuoHj9DB8/view
